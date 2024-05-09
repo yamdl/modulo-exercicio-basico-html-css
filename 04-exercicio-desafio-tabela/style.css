@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+h2{
+    padding: 0;
+}
+
+td{
+    color: aliceblue;
+}
+
+.cabecalho-moda{
+    background-color: #BB86FC;
+    text-align: center;
+}
+
+.produtos{
+    background-color: #424250;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+    text-align: center;
+}
